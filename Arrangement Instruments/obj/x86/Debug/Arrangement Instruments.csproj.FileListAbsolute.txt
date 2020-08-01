@@ -1,0 +1,211 @@
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\matsumoto\Desktop\0119 配管長出力\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\matsumoto\Desktop\0123 バルブ同士の重なり回避\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\matsumoto\Desktop\0123 最適配置シミュレーション\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+C:\Users\deguchi\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\deguchi\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\deguchi\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\deguchi\Desktop\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\deguchi\Desktop\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\deguchi\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\deguchi\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\deguchi\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\deguchi\Documents\deguchi M1\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+D:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+D:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+D:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+D:\M1 deguchi\研究\システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+D:\M1 deguchi\研究\システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+D:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+D:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+D:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+F:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+F:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+F:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+D:\M1 deguchi\研究\システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+C:\Users\hirata\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\hirata\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\hirata\Desktop\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+F:\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+F:\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+F:\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+F:\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+F:\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+F:\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+F:\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+F:\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+F:\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+F:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+D:\M1 deguchi\研究\システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+F:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+Z:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+Z:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+Z:\M1 deguchi\研究\システム\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+Z:\M2 deguchi\最適化システム\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+K:\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+K:\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+K:\配管長最小化システム\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\Akhmad Faqih Umar\Desktop\GA New-Arrangement excel\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\gunawan\Documents\Visual Studio 2015\Projects\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+F:\GA Arrangement Instrument edit-1\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+F:\Buat Mas Loka\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+Z:\C# Program\Arrangement 1 ship\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+Z:\C# Program\1 ship length\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+Z:\C# Program\1 ship length\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+Z:\C# Program\1 ship length\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+Z:\C# Program\1 ship length\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+Z:\C# Program\1 ship length\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+Z:\C# Program\1 ship length\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojResolveAssemblyReference.cache
+Z:\C# Program\1 ship length\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+Z:\C# Program\1 ship length\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+Z:\C# Program\1 ship length\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.Cache
+Z:\C# Arrangement All Types\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+Z:\C# Arrangement All Types\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+Z:\C# Arrangement All Types\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojAssemblyReference.cache
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.cache
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.CoreCompileInputs.cache
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\JONZ PC\Desktop\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojAssemblyReference.cache
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.cache
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\Nabil\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\bin\Debug\Arrangement Instruments.exe
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\bin\Debug\Arrangement Instruments.pdb
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csprojAssemblyReference.cache
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.ResolveComReference.cache
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Form1.resources
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement_Instruments.Properties.Resources.resources
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.GenerateResource.cache
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.csproj.CoreCompileInputs.cache
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.exe
+C:\Users\nabie\Desktop\Program Skripsi\Program Skripsi\Arrangement 1 Ship-Cost-Direct Method\Arrangement Instruments\obj\x86\Debug\Arrangement Instruments.pdb
